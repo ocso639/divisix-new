@@ -1,9 +1,0 @@
-obj/video.c.o: src/video.c src/include/video.h src/flanterm/flanterm.h \
- src/flanterm/backends/fb.h src/flanterm/backends/../flanterm.h \
- src/include/memory.h src/include/string.h
-src/include/video.h:
-src/flanterm/flanterm.h:
-src/flanterm/backends/fb.h:
-src/flanterm/backends/../flanterm.h:
-src/include/memory.h:
-src/include/string.h:
