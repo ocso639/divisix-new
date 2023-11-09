@@ -1,0 +1,179 @@
+Servicing hardware INT=0x0e
+Servicing hardware INT=0x0e
+Servicing hardware INT=0x0e
+Servicing hardware INT=0x08
+Servicing hardware INT=0x0e
+Servicing hardware INT=0x0e
+Servicing hardware INT=0x0e
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x08
+Servicing hardware INT=0x09
+Servicing hardware INT=0x08
+     0: v=01 e=0000 i=1 cpl=0 IP=0028:ffffffff80003ddc pc=ffffffff80003ddc SP=0030:ffff800007f6bff0 env->regs[R_EAX]=0000000000000005
+RAX=0000000000000005 RBX=0000000000000000 RCX=ffffffff8000d150 RDX=ffffffff800d0164
+RSI=000000000000000f RDI=ffffffff80014d04 RBP=0000000000000000 RSP=ffff800007f6bff0
+R8 =ffffffff800d0168 R9 =0000000000000010 R10=ffffffff80008f00 R11=0000000000000004
+R12=0000000000000000 R13=0000000000000000 R14=0000000000000000 R15=0000000000000000
+RIP=ffffffff80003ddc RFL=00000286 [--S--P-] CPL=0 II=0 A20=1 SMM=0 HLT=0
+ES =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+CS =0028 0000000000000000 00000000 00209b00 DPL=0 CS64 [-RA]
+SS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+DS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+FS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+GS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+LDT=0000 0000000000000000 00000000 00008200 DPL=0 LDT
+TR =0000 0000000000000000 0000ffff 00008b00 DPL=0 TSS64-busy
+GDT=     ffffffff84008f10 00000017
+IDT=     ffffffff84008f60 00000fff
+CR0=80010011 CR2=0000000000000000 CR3=0000000007f5b000 CR4=00000020
+DR0=0000000000000000 DR1=0000000000000000 DR2=0000000000000000 DR3=0000000000000000 
+DR6=00000000ffff0ff0 DR7=0000000000000400
+CCS=0000000000000078 CCD=ffff800007f6bfb8 CCO=ADDQ
+EFER=0000000000000d00
+check_exception old: 0xffffffff new 0xd
+     1: v=0d e=0284 i=0 cpl=0 IP=0008:ffffffff8000419e pc=ffffffff8000419e SP=0030:ffff800007f6bfd0 env->regs[R_EAX]=0000000000000005
+RAX=0000000000000005 RBX=0000000000000000 RCX=ffffffff8000d150 RDX=ffffffff800d0164
+RSI=000000000000000f RDI=ffffffff80014d04 RBP=0000000000000000 RSP=ffff800007f6bfd0
+R8 =ffffffff800d0168 R9 =0000000000000010 R10=ffffffff80008f00 R11=0000000000000004
+R12=0000000000000000 R13=0000000000000000 R14=0000000000000000 R15=0000000000000000
+RIP=ffffffff8000419e RFL=00000092 [--S-A--] CPL=0 II=0 A20=1 SMM=0 HLT=0
+ES =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+CS =0008 0000000000000000 ffffffff 00af9a00 DPL=0 CS64 [-R-]
+SS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+DS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+FS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+GS =0030 0000000000000000 00000000 00009300 DPL=0 DS   [-WA]
+LDT=0000 0000000000000000 00000000 00008200 DPL=0 LDT
+TR =0000 0000000000000000 0000ffff 00008b00 DPL=0 TSS64-busy
+GDT=     ffffffff84008f10 00000017
+IDT=     ffffffff84008f60 00000fff
+CR0=80010011 CR2=0000000000000000 CR3=0000000007f5b000 CR4=00000020
+DR0=0000000000000000 DR1=0000000000000000 DR2=0000000000000000 DR3=0000000000000000 
+DR6=00000000ffff0ff0 DR7=0000000000000400
+CCS=0000000000000008 CCD=ffff800007f6bfd0 CCO=ADDQ
+EFER=0000000000000d00
